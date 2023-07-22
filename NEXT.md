@@ -1,6 +1,6 @@
 # What's next?
 
-So you finished this module and are now convinced that you want to become a web developer. That's great to hear! Apply to the next class at [our site](https://www.hackyourfuture.net/apply) if you haven't already.
+So you finished this module and are now convinced that you want to become a web developer. That's great to hear!
 
 In the meantime you can get a head start with the curriculum to increase your chances of completing the course by continuing to learn. Have a look at the following resources that will help build your knowledge and make the next steps a lot easier. There is no particular order in these, see what you enjoy best and remember to code as much as possible yourself!
 

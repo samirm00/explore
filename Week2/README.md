@@ -22,7 +22,7 @@ By now you've had some practice with CSS. In the following sections you'll learn
 
 CSS is used to order and style HTML elements. A big part of this is organising elements in a visually attractive way. This can be done using `flexbox`.
 
-What it does is helping you to think according to `grid-based web design`: elements are not randomly placed on the page, but are neatly organised along a grid.
+What it does is helping you to think according to `grid-based web design`: elements are not randomly placed on the page, but are neatly organized along a grid.
 
 Read the following to learn more about 'grid-based web design':
 
@@ -37,7 +37,7 @@ In order to make use of it we have to access it through the `display` CSS proper
 display: flex;
 ```
 
-This will give us the `flexbox`-specific properties, so we can develop clean and organised CSS. Check the following links to understand how this is done:
+This will give us the `flexbox`-specific properties, so we can develop clean and organized CSS. Check the following links to understand how this is done:
 
 - [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
 - [What is Flexbox and Why to Learn it](https://www.youtube.com/watch?v=CXSwNIPsyTs)
@@ -45,7 +45,7 @@ This will give us the `flexbox`-specific properties, so we can develop clean and
 
 ### Using the grid layout
 
-The most recent addition to the css toolkit for organising your layout is using `display: grid`. Where every other layout always goes from top to bottom, grid allows you to create a two-dimensional layout.
+The most recent addition to the css toolkit for organizing your layout is using `display: grid`. Where every other layout always goes from top to bottom, grid allows you to create a two-dimensional layout.
 
 The complete guide to grid by css-tricks is the go to guide, read it here:
 

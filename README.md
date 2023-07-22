@@ -1,8 +1,6 @@
 # HackYourFuture explore
 
-The explore module is your first look at what being a developer is, and at how the HackYourFuture program works. By completing it, you will also have a better idea of what will be expected of you throughout the 7 months of studying at HackYourFuture, so you can make an informed decision on whether you want to commit your time to getting into the tech industry.
-
-Before diving in, please visit our [application page](https://www.hackyourfuture.net/apply) to learn more about the selection process at HackYourFuture. Note that our course is exclusively for people with a refugee background, and your application may be declined for non-technical reasons. If you are not sure if you are eligible, please contact us at info@hackyourfuture.net with an explanation of your situation and we will get back to you. Completing this module is no guarantee to getting into the program, but it will always be a good first step into web development.
+The explore module is your first look at what being a developer is, and at how the HackYourFuture program works. By completing it, you will also have a better idea of what will be expected of you throughout the 8 months of studying at HackYourFuture, so you can make an informed decision on whether you want to commit your time to getting into the tech industry.
 
 Now let's get to the fun stuff:
 
@@ -18,13 +16,13 @@ This module will handle the very basics of what is called `frontend` (as opposed
 
 In order to successfully complete this module, you will need to master the following:
 
-- Be able to write syntactically correct `HTML`, `CSS` and `JS`
-- Understand what is meant by `responsive` web development
-- Know your way around `Visual Studio Code`
-- Feel comfortable working with your `browser's inspector`
-- Know what we mean with `variables`, `operators`, `objects` and `arrays` in `JavaScript`
-- Understand what the `DOM` is
-- Use the basics of `DOM Manipulation`
+-   Be able to write syntactically correct `HTML`, `CSS` and `JS`
+-   Understand what is meant by `responsive` web development
+-   Know your way around `Visual Studio Code`
+-   Feel comfortable working with your `browser's inspector`
+-   Know what we mean with `variables`, `operators`, `objects` and `arrays` in `JavaScript`
+-   Understand what the `DOM` is
+-   Use the basics of `DOM Manipulation`
 
 ### Repository content
 

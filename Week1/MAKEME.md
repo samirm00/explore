@@ -33,14 +33,6 @@ A big part of learning web development is through learning by example. In the fo
 
 The following challenges require you to combine your HTML and CSS knowledge to make a webpage. The instructions here are more requirements than a very defined exercise which is closer to what developers do! These are probably too much for one week, but try to do as many of them as you can as each of the numbered challenges are ones we feel add something to your knowledge!
 
-- [Codecademy Challenges](https://www.codecademy.com/resources/blog/html-and-css-code-challenges-for-beginners/): Challenge #2, #4, #5, #8
+- [Codecademy Challenges](https://www.codecademy.com/resources/blog/html-and-css-code-challenges-for-beginners/): Challenge #2, #4
 
-## Extra options
 
-The above is your todo list, but sometimes they do not match up well with the way you learn. Sometimes it goes too fast or sometimes the teacher in a video does not explain it in the way to make it click. That's why we also provide extra options here for you to look at if you are struggling to understand what is happening:
-
-- [Mimo app](https://getmimo.com/) - If you are on the go a lot this is a great app to have on your phone to keep practicing. Choose the Web development path and get it out whenever you need to wait somewhere!
-
-## Finished?
-
-Are you finished with going through the exercises? Well done!!! If you feel ready to go to the next week, click [here](../Week2/README.md).
