@@ -34,5 +34,3 @@ A big part of learning web development is through learning by example. In the fo
 The following challenges require you to combine your HTML and CSS knowledge to make a webpage. The instructions here are more requirements than a very defined exercise which is closer to what developers do! These are probably too much for one week, but try to do as many of them as you can as each of the numbered challenges are ones we feel add something to your knowledge!
 
 - [Codecademy Challenges](https://www.codecademy.com/resources/blog/html-and-css-code-challenges-for-beginners/): Challenge #2, #4
-
-

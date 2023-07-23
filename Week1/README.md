@@ -20,7 +20,6 @@ These are the topics for week 1:
     - What is a web browser?
     - Choosing the right web browser
     - How to use the inspector
-    - Useful browser extensions
 
 > If you haven't yet, make sure to follow the [setup guide](../SETUP.md) to have everything set up!
 
@@ -178,22 +177,6 @@ Watch the following videos and follow along:
 
 -   [Using browser inspector tools](https://www.youtube.com/watch?v=WJIqIDm7CoA)
 -   [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
-
-### Useful browser extensions
-
-As web developers we'll be dealing with the browser all the time. Why not upgrade our browser so it can make our programming life easier?
-
-A `browser extension` is a piece of software someone has written to increase the capability of the web browser. For example, if you hate receiving advertisements you probably use something like [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) to block all the unwanted ads you might find in your webpages (if not, download it as soon as possible!).
-
-The following is a list of extensions that have proven to be useful during web development. This list only applies for Google Chrome, so if you don't have it, [install it](https://www.google.com/chrome/).
-
-Extensions:
-
--   Modify the technologies underlying each website, in real time, using [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm/related?hl=en-US)
--   Expose what technologies a website is using with [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en-US)
--   If you ever wanted to know the exact color of any element in a page, you can now do so with [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)
-
-There are many more of these extensions and we encourage you to explore. See what fits your needs!
 
 ## Finished?
 
